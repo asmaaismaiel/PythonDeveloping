@@ -1,0 +1,2 @@
+1- How super Function handle Multiple Inheritance.
+
